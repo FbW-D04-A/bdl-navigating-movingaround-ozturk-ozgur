@@ -2,6 +2,8 @@
 
 **Anweisungen**
 
+new
+
 * Öffne ein neues Terminal und löse die Aufgaben dort. Verwende nicht den Dateimanager des Betriebssystems.
 
 * Wechsle in das Wurzelverzeichnis deines Systems. 

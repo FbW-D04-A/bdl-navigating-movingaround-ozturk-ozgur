@@ -17,3 +17,11 @@ new
 * Wofür stehen die Buchstaben des Kommandos `cd`? Schreibe den vollen Namen des Kommandos aus, und übersetze ihn in deine Muttersprache.
 
 **Bonus**: Suche nach dem Tastaturkürzel um ein neues Terminalfenster zu öffnen. Versuch's mal!
+
+
+new
+
+new
+
+
+test
